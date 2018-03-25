@@ -5,7 +5,7 @@
 [image3]: ./images/vgg16_model_draw.png "VGG16 Model Figure"
 
 
-## To see my submission, open [dog_app.ipynb](https://github.com/jbell303/dog-project/dog_app.ipynb)
+## To see my submission, open [dog_app.ipynb](https://github.com/jbell303/dog-project/blob/master/dog_app.ipynb)
 
 ## Project Overview
 
